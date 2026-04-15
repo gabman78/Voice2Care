@@ -5,7 +5,7 @@
 > *Università degli Studi di Napoli Federico II*
 
 <p align="center">
-  <img src="logo.png" alt="Voice2Care Logo" width="200">
+  <img src="logo.png" alt="Voice2Care Logo" width="300">
 </p>
 
 **Voice2Care** è una piattaforma avanzata progettata per semplificare la compilazione delle cartelle cliniche in contesti d'emergenza. Grazie all'integrazione di tecnologie Speech-to-Text e Modelli di Linguaggio (LLM), il sistema trasforma il parlato del medico in documentazione sanitaria strutturata, archiviata in un database NoSQL e visualizzata su mappe interattive.
@@ -32,7 +32,7 @@ Il medico detta sintomi e parametri. Il sistema (via **LLaMA 3**) estrae le enti
 I dati salvati su **MongoDB** vengono aggregati in tempo reale per offrire una panoramica della situazione clinica.
 
 <p align="center">
-  <img src="Dashboard.png" alt="Dashboard" width="200">
+  <img src="Dashboard.png" alt="Dashboard" width="600">
 </p>
 
 * **Triage Insight:** Visualizzazione immediata della saturazione del reparto tramite grafici a torta e a barre (Plotly).
@@ -44,7 +44,7 @@ Attraverso il modulo di geolocalizzazione, il sistema mappa la residenza dei paz
 * **Heatmap Interattiva:** Utilizzando **Folium**, vengono generate mappe di calore che evidenziano le aree urbane con maggior afflusso di pazienti, permettendo di identificare tempestivamente possibili emergenze sanitarie localizzate.
 
 <p align="center">
-  <img src="Cartella.png" alt="Cartella clinica" width="200">
+  <img src="Cartella.png" alt="Cartella clinica" width="600">
 </p>
 ---
 
