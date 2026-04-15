@@ -1,0 +1,103 @@
+{
+    "nome": "Lilla",
+    "cognome": "Puglisi",
+    "data_nascita": "1939-12-13",
+    "luogo_nascita": "Cesena",
+    "residenza": {
+        "via": "strada Borgia 5",
+        "comune": "Monza",
+        "provincia": "Monza e Brianza"
+    },
+    "telefono": "3869181540",
+    "intervento": {
+        "data_di_ricovero": "2025-06-10",
+        "ora_di_ricovero": "09:35",
+        "luogo_intervento": "Pronto Soccorso Fittipaldi Viola",
+        "condizione_riferita": "trauma sportivo",
+        "codice_uscita": "Russo",
+        "codice_rientro": "Verde",
+        "attivazioni": [
+            "Automedica",
+            "Forze dell'ordine"
+        ],
+        "equipaggio": [
+            "Rubbia",
+            "Tremonti",
+            "Gullotta"
+        ]
+    },
+    "condizione_clinica": {
+        "sintomi_principali": [
+            "dolore toracico",
+            "nausea",
+            "difficoltà respiratoria"
+        ],
+        "diagnosi_sospetta": "trauma contusivo multiplo",
+        "diagnosi_finale": "poli-contusioni da caduta",
+        "farmaci_somministrati": [
+            "Paracetamolo 1000 mg",
+            "Ibuprofene 600 mg"
+        ],
+        "trattamenti_effettuati": [
+            "monitoraggio di parametri vitali",
+            "immobilizzazione del rachide cervicale"
+        ],
+        "esami_diagnostici": [
+            "attacca dell'encefalo",
+            "ECG"
+        ],
+        "patologie_pregresse": [],
+        "allergie_note": [],
+        "decorso_clinico": ""
+    },
+    "parametri_vitali": {
+        "pressione": "125/78",
+        "frequenza_cardiaca": 94,
+        "saturazione": 100,
+        "glicemia": 108,
+        "temperatura": 36.6
+    },
+    "glasgow_coma_scale": {
+        "iniziale": {
+            "oculare": 4,
+            "verbale": 5,
+            "motoria": 6
+        }
+    },
+    "respiro": {
+        "tipo": "spontaneo",
+        "frequenza": 14,
+        "rumori": "assenti"
+    },
+    "coscienza": {
+        "stato": "vigile",
+        "orientamento": "tempo, spazio e persona"
+    },
+    "cute": {
+        "colore": "normale",
+        "temperatura": "regolare",
+        "sudorazione": "assente"
+    },
+    "pupille_reagenti": {
+        "Dx": "Sì",
+        "Sx": "Sì"
+    },
+    "lesioni_riscontrate": [
+        "escoriazione al gomito destro",
+        "chimosi in regione lombare"
+    ],
+    "provvedimenti": {
+        "prima_valutazione": [
+            "applicazione del collare cervicale"
+        ],
+        "ospedale": [
+            "visita specialistica",
+            "monitoraggio ECG"
+        ]
+    },
+    "annotazioni": "La paziente riferisce che l'evento si è verificato intorno alle 8 del mattino, non ha perso conoscenza, è collaborante e autonoma nei movimenti.",
+    "firma_paziente_rifiuto": false,
+    "firma_medico_decesso": false,
+    "id": "ID0005",
+    "timestamp": "2025-06-15T14:19:39.762897"
+}

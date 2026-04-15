@@ -1,0 +1,80 @@
+{
+    "nome": "Giuseppe",
+    "cognome": "Gammone",
+    "sesso": "M",
+    "data_nascita": "2000-06-13",
+    "luogo_nascita": "Napoli",
+    "eta": 24,
+    "intervento": {
+        "data_di_ricovero": "",
+        "ora_di_ricovero": "",
+        "luogo_intervento": "",
+        "condizione_riferita": "trauma cranico a seguito di un incidente stradale e numerosi lividi",
+        "codice_uscita": "",
+        "codice_rientro": 0,
+        "attivazioni": [],
+        "equipaggio": []
+    },
+    "condizione_clinica": {
+        "motivo_del_ricovero": [
+            "trauma cranico a seguito di un incidente stradale e numerosi lividi"
+        ],
+        "metodo_di_arrivo": [],
+        "sintomi_principali": [],
+        "diagnosi_sospetta": "",
+        "diagnosi_finale": "",
+        "decorso_clinico": "",
+        "allergie_note": [],
+        "patologie_pregresse": []
+    },
+    "parametri_vitali": {
+        "SpO2": "",
+        "FC_bpm": "",
+        "PA_mmHg": "",
+        "Glicemia_mgdl": "",
+        "Temperatura_C": ""
+    },
+    "coscienza": "",
+    "cute": "",
+    "respiro": "",
+    "glasgow_coma_scale": {},
+    "pupille_reagenti": {
+        "Dx": "",
+        "Sx": ""
+    },
+    "lesioni_riscontrate": [],
+    "trattamenti": {
+        "farmaci_indicati": [],
+        "trattamenti_effettuati": [],
+        "esami_diagnostici": [],
+        "provvedimenti": {
+            "respiro": [],
+            "circolo": [],
+            "immobilizzazione": [],
+            "altro": [],
+            "infusioni_farmaci": []
+        }
+    },
+    "altro": {
+        "annotazioni": "",
+        "firma_paziente_rifiuto": false,
+        "firma_medico_decesso": false
+    },
+    "residenza": {
+        "via": "",
+        "comune": "",
+        "provincia": ""
+    },
+    "provvedimenti": {
+        "respiro": [],
+        "circolo": [],
+        "immobilizzazione": [],
+        "altro": [],
+        "infusioni_farmaci": []
+    },
+    "annotazioni": "",
+    "firma_paziente_rifiuto": false,
+    "firma_medico_decesso": false,
+    "id": "GMMGPP00H13F839N",
+    "timestamp": "2025-06-08T12:26:09.304911"
+}

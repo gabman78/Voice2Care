@@ -1,0 +1,103 @@
+{
+  "nome": "Paola",
+  "cognome": "Abate",
+  "sesso": "F",
+  "data_nascita": "1993-08-19",
+  "luogo_nascita": "Perugia",
+  "eta": 32,
+  "id": "EJXTAL26P66X994P",
+  "timestamp": "2025-06-10T10:39:00",
+  "telefono": "+39 3727873438",
+  "residenza": {
+    "via": "Piazza Rastelli 74",
+    "comune": "Lecce",
+    "provincia": "LE"
+  },
+  "data_di_ricovero": "2025-06-10",
+  "ora_di_ricovero": "10:39",
+  "luogo_intervento": "Pronto Soccorso Morgagni, Crespi e Fagotto s.r.l.",
+  "condizione_riferita": "Incidente stradale",
+  "codice_uscita": "BIANCO",
+  "codice_rientro": "BIANCO",
+  "attivazioni": [
+    "118"
+  ],
+  "equipaggio": [
+    "Autista Bompiani",
+    "Infermiere Calbo",
+    "Medico Eco"
+  ],
+  "sintomi_principali": [
+    "mal di testa",
+    "difficoltà respiratoria",
+    "dolore toracico"
+  ],
+  "diagnosi_sospetta": "Trauma contusivo multiplo",
+  "diagnosi_finale": "Policontusioni da caduta",
+  "farmaci_indicati": [
+    "Paracetamolo 1000mg EV",
+    "Ibuprofene 600mg OS"
+  ],
+  "trattamenti_effettuati": [
+    "Somministrazione ossigeno",
+    "Monitoraggio parametri"
+  ],
+  "esami_diagnostici": [
+    "Analisi sangue",
+    "ECG"
+  ],
+  "parametri_vitali": {
+    "pressione": "108/83",
+    "frequenza_cardiaca": "82 bpm",
+    "saturazione": "100%",
+    "glicemia": "95 mg/dL",
+    "temperatura": "36.2 °C"
+  },
+  "respiro": {
+    "tipo": "Spontaneo",
+    "frequenza": "16 atti/min",
+    "rumori": "Assenti"
+  },
+  "coscienza": {
+    "stato": "vigile",
+    "orientamento": "tempo, spazio, persona"
+  },
+  "cute": {
+    "colore": "normale",
+    "temperatura": "normale",
+    "sudorazione": "assente"
+  },
+  "glasgow_coma_scale": {
+    "iniziale": {
+      "oculare": 4,
+      "verbale": 5,
+      "motoria": 6
+    },
+    "arrivo_ps": {
+      "oculare": 4,
+      "verbale": 5,
+      "motoria": 6
+    }
+  },
+  "pupille_reagenti": {
+    "Dx": "Reattiva, normali",
+    "Sx": "Reattiva, normali"
+  },
+  "lesioni_riscontrate": [
+    "Contusione cranica",
+    "Ecchimosi lombare"
+  ],
+  "provvedimenti": {
+    "prima_valutazione": [
+      "Applicazione collare cervicale",
+      "Monitoraggio ECG"
+    ],
+    "ospedale": [
+      "Trasferimento in PS",
+      "Esami diagnostici radiologici"
+    ]
+  },
+  "annotazioni": "Il paziente riferisce evento alle ore 8:00, assenza di perdita di coscienza. Collaborante e autonomo nei movimenti.",
+  "firma_paziente_rifiuto": false,
+  "firma_medico_decesso": false
+}

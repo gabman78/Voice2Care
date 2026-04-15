@@ -1,0 +1,36 @@
+{
+    "nome": "Gabriele",
+    "cognome": "Mangiacapre",
+    "sesso": "M",
+    "data_nascita": "2001-05-13",
+    "luogo_nascita": "Massa di Somma",
+    "eta": 23,
+    "condizione_riferita": "infarto",
+    "residenza": {
+        "via": "",
+        "comune": "",
+        "provincia": ""
+    },
+    "parametri_vitali": {},
+    "coscienza": {},
+    "cute": {},
+    "respiro": {},
+    "glasgow_coma_scale": {},
+    "pupille_reagenti": {
+        "Dx": "",
+        "Sx": ""
+    },
+    "lesioni_riscontrate": [],
+    "provvedimenti": {
+        "respiro": [],
+        "circolo": [],
+        "immobilizzazione": [],
+        "altro": [],
+        "infusioni_farmaci": []
+    },
+    "annotazioni": "",
+    "firma_paziente_rifiuto": false,
+    "firma_medico_decesso": false,
+    "id": "MNGGRL01E13M289G",
+    "timestamp": "2025-06-09T16:30:26.006658"
+}

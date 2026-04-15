@@ -1,0 +1,19 @@
+Il paziente si chiama Giorgio Russo, nato il 1937-08-16 a Milano.
+È residente in Via Costa 78, Napoli. L’età approssimativa è di 91 anni.
+L’intervento è avvenuto in data 10 giugno 2025, alle ore 14:39, presso il Pronto Soccorso Giorgio, Marco e Elena s.r.l..
+La condizione riferita è trauma cranico.
+Il codice di uscita è stato giallo, mentre il codice di rientro è stato giallo.
+Sono state attivate le forze dell’ordine. L’equipaggio era composto da autista Leone, infermiere Ferrari, medico Martini.
+Il paziente riferiva i seguenti sintomi principali: dolore, nausea, difficoltà respiratoria.
+La diagnosi sospetta era trauma contusivo multiplo. Dopo valutazione, la diagnosi finale è risultata essere policontusioni da caduta.
+Sono stati somministrati i seguenti farmaci: Ketorolac 30 mg IM.
+I trattamenti effettuati sono stati: immobilizzazione arto inferiore.
+Gli esami diagnostici eseguiti includono: TAC encefalo, ECG.
+I parametri vitali rilevati erano: pressione 121 su 83, frequenza cardiaca 95 battiti al minuto, saturazione 98 percento, glicemia 122 mg/dL, temperatura 37.2 gradi Celsius.
+Il respiro era spontaneo, 16 atti/min, assenza di rumori patologici. Il paziente era vigile, orientato tempo, spazio, persona.
+La cute appariva colore normale, temperatura regolare, sudorazione assente. Le pupille erano reattive e normali bilateralmente.
+Alla Glasgow Coma Scale: oculare 4, verbale 5, motoria 6.
+Lesioni riscontrate: ecchimosi alla fronte.
+Provvedimenti adottati: in prima valutazione applicazione collare cervicale, monitoraggio ECG; in ospedale, trasferimento in PS, visita specialistica.
+Annotazioni: nessuna perdita di coscienza, paziente collaborante e autonomo.
+Numero di telefono fornito: 3337623191.

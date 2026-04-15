@@ -1,0 +1,19 @@
+streamlit==1.45.1
+openai-whisper
+torch==2.0.1
+soundfile
+av
+numpy
+librosa 
+soundfile
+groq
+python-codicefiscale
+pymongo
+#brew install ffmpeg
+wordcloud
+fpdf 
+pillow 
+streamlit-webrtc
+folium 
+streamlit-folium 
+geopy

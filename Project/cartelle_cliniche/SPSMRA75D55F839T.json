@@ -1,0 +1,69 @@
+{
+  "nome": "Maria",
+  "cognome": "Esposito",
+  "sesso": "F",
+  "data_nascita": "1975-04-15",
+  "luogo_nascita": "Napoli",
+  "eta": 50,
+  "id": "SPSMRA75D55F839T",
+  "timestamp": "2025-06-06T09:22:18.142000",
+
+  "residenza": {
+    "via": "Via Toledo 45",
+    "comune": "Napoli",
+    "provincia": "NA"
+  },
+  "data_di_ricovero": "2025-06-05",
+  "ora_di_ricovero": "22:10",
+  "luogo_intervento": "Abitazione privata",
+  "condizione_riferita": "Dispnea improvvisa",
+  "codice_uscita": "ROSSO",
+  "codice_rientro": "GIALLO",
+  "attivazioni": ["118", "Autoambulanza"],
+  "equipaggio": ["Autista Romano", "Infermiere Gallo"],
+  "sintomi_principali": ["dispnea", "tachicardia", "ansia"],
+  "diagnosi_sospetta": "Scompenso cardiaco acuto",
+  "diagnosi_finale": "Edema polmonare acuto",
+  "farmaci_indicati": ["Furosemide 20mg EV", "Ossigenoterapia", "Nitroglicerina"],
+  "trattamenti_effettuati": ["Monitoraggio ECG", "Somministrazione ossigeno"],
+  "esami_diagnostici": ["RX torace", "ECG", "Emogas arterioso"],
+  "parametri_vitali": {
+    "pressione": "160/100",
+    "frequenza_cardiaca": "110 bpm",
+    "saturazione": "89%",
+    "glicemia": "112 mg/dL"
+  },
+  "respiro": {
+    "tipo": "Difficoltoso",
+    "frequenza": "28 atti/min",
+    "rumori": "rantoli basali"
+  },
+  "coscienza": {
+    "stato": "vigile",
+    "orientamento": "presente"
+  },
+  "cute": {
+    "colore": "cianotica",
+    "temperatura": "fredda",
+    "sudorazione": "profusa"
+  },
+  "glasgow_coma_scale": {
+    "iniziale": {
+      "oculare": 4,
+      "verbale": 4,
+      "motoria": 5
+    }
+  },
+  "pupille_reagenti": {
+    "Dx": "Normale",
+    "Sx": "Normale"
+  },
+  "lesioni_riscontrate": [],
+  "provvedimenti": {
+    "preospedalieri": ["Ossigenoterapia", "Monitoraggio"],
+    "ospedale": ["Supporto ventilatorio", "Diuretici EV"]
+  },
+  "annotazioni": "Paziente allertata, riferisce patologie cardiache croniche.",
+  "firma_paziente_rifiuto": false,
+  "firma_medico_decesso": false
+}

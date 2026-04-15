@@ -1,0 +1,69 @@
+{
+  "nome": "Alessio",
+  "cognome": "Amato",
+  "sesso": "M",
+  "data_nascita": "1992-12-01",
+  "luogo_nascita": "Torino",
+  "eta": 32,
+  "id": "MTALSS92T01L219K",
+  "timestamp": "2025-06-06T12:10:22.000000",
+
+  "residenza": {
+    "via": "Via Po 18",
+    "comune": "Torino",
+    "provincia": "TO"
+  },
+  "data_di_ricovero": "2025-06-06",
+  "ora_di_ricovero": "11:50",
+  "luogo_intervento": "Palestra privata",
+  "condizione_riferita": "Dolore toracico durante attività fisica",
+  "codice_uscita": "GIALLO",
+  "codice_rientro": "GIALLO",
+  "attivazioni": ["118", "Automedica"],
+  "equipaggio": ["Autista Serra", "Infermiere Lupo", "Medico Anselmi"],
+  "sintomi_principali": ["dolore toracico", "dispnea", "sudorazione fredda"],
+  "diagnosi_sospetta": "Angina instabile",
+  "diagnosi_finale": "Sindrome coronarica acuta (NSTEMI)",
+  "farmaci_indicati": ["Aspirina 300mg", "Nitroglicerina sublinguale", "Ossigeno"],
+  "trattamenti_effettuati": ["Monitoraggio ECG", "Accesso venoso", "O2 terapia"],
+  "esami_diagnostici": ["ECG", "Troponina", "RX torace"],
+  "parametri_vitali": {
+    "pressione": "140/90",
+    "frequenza_cardiaca": "105 bpm",
+    "saturazione": "95%",
+    "glicemia": "97 mg/dL"
+  },
+  "respiro": {
+    "tipo": "Spontaneo",
+    "frequenza": "22 atti/min",
+    "rumori": "normali"
+  },
+  "coscienza": {
+    "stato": "vigile",
+    "orientamento": "presente"
+  },
+  "cute": {
+    "colore": "pallida",
+    "temperatura": "fredda",
+    "sudorazione": "fredda"
+  },
+  "glasgow_coma_scale": {
+    "iniziale": {
+      "oculare": 4,
+      "verbale": 5,
+      "motoria": 6
+    }
+  },
+  "pupille_reagenti": {
+    "Dx": "Normale",
+    "Sx": "Normale"
+  },
+  "lesioni_riscontrate": [],
+  "provvedimenti": {
+    "emergenza": ["Somministrazione antiplatetari", "Monitoraggio continuo"],
+    "ospedale": ["Cardiologia interventistica", "Eco cuore urgente"]
+  },
+  "annotazioni": "Paziente allenato, senza patologie pregresse note, episodio acuto durante sforzo fisico intenso.",
+  "firma_paziente_rifiuto": false,
+  "firma_medico_decesso": false
+}

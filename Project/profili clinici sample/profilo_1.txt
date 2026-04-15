@@ -1,0 +1,19 @@
+Il paziente si chiama Augusto Vespucci, nato il 8 maggio 1936 a Treviso.
+È residente in Strada Lucio 7, Appartamento 48, Catania. L’età approssimativa è di 89 anni.
+L’intervento è avvenuto in data 10 giugno 2025, alle ore 13 e 24, presso il Pronto Soccorso Fiorucci, Verri e Lupo s.r.l..
+La condizione riferita è malore improvviso.
+Il codice di uscita è stato bianco, mentre il codice di rientro è stato verde.
+Sono state attivate le forze dell’ordine. L’equipaggio era composto da autista Buscetta, infermiere Pavanello, medico Mercantini.
+Il paziente riferiva i seguenti sintomi principali: dolore toracico, nausea, difficoltà respiratoria.
+La diagnosi sospetta era trauma contusivo multiplo. Dopo valutazione, la diagnosi finale è risultata essere policontusioni da caduta.
+Sono stati somministrati i seguenti farmaci: Ketorolac 30 mg intramuscolo, Paracetamolo 1000 mg endovena.
+I trattamenti effettuati sono stati: somministrazione ossigeno, immobilizzazione rachide cervicale.
+Gli esami diagnostici eseguiti includono: TAC encefalo, ECG.
+I parametri vitali rilevati erano: pressione 126 su 82, frequenza cardiaca 100 battiti al minuto, saturazione 95 percento, glicemia 109 mg/dL, temperatura 36.8 gradi Celsius.
+Il respiro era spontaneo, 19 atti/min, assenza di rumori patologici. Il paziente era vigile, orientato tempo, spazio, persona.
+La cute appariva colore normale, temperatura regolare, sudorazione assente. Le pupille erano reattive e normali bilateralmente.
+Alla Glasgow Coma Scale: oculare 4, verbale 5, motoria 6.
+Lesioni riscontrate: escoriazione gomito destro, ecchimosi lombare.
+Provvedimenti adottati: in prima valutazione monitoraggio ECG, applicazione collare cervicale; in ospedale, trasferimento in PS, esami diagnostici radiologici.
+Annotazioni: evento alle ore otto, nessuna perdita di coscienza, paziente collaborante e autonomo.
+Numero di telefono fornito: non fornito.

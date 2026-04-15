@@ -1,0 +1,75 @@
+{
+    "nome": "",
+    "cognome": "",
+    "sesso": "",
+    "data_nascita": "",
+    "luogo_nascita": "",
+    "eta": "",
+    "id": "ID0009",
+    "timestamp": "2025-06-18T13:04:47.267642",
+    "telefono": "",
+    "residenza": {
+        "via": "",
+        "comune": "",
+        "provincia": ""
+    },
+    "data_di_ricovero": "",
+    "ora_di_ricovero": "",
+    "luogo_intervento": "",
+    "condizione_riferita": "",
+    "codice_uscita": "",
+    "codice_rientro": "",
+    "attivazioni": [],
+    "equipaggio": [],
+    "sintomi_principali": [],
+    "diagnosi_sospetta": "",
+    "diagnosi_finale": "",
+    "farmaci_indicati": [],
+    "trattamenti_effettuati": [],
+    "esami_diagnostici": [],
+    "parametri_vitali": {
+        "pressione": "",
+        "frequenza_cardiaca": "",
+        "saturazione": "",
+        "glicemia": "",
+        "temperatura": ""
+    },
+    "respiro": {
+        "tipo": "",
+        "frequenza": "",
+        "rumori": ""
+    },
+    "coscienza": {
+        "stato": "",
+        "orientamento": ""
+    },
+    "cute": {
+        "colore": "",
+        "temperatura": "",
+        "sudorazione": ""
+    },
+    "glasgow_coma_scale": {
+        "iniziale": {
+            "oculare": "",
+            "verbale": "",
+            "motoria": ""
+        },
+        "arrivo_ps": {
+            "oculare": "",
+            "verbale": "",
+            "motoria": ""
+        }
+    },
+    "pupille_reagenti": {
+        "Dx": "",
+        "Sx": ""
+    },
+    "lesioni_riscontrate": [],
+    "provvedimenti": {
+        "prima_valutazione": [],
+        "ospedale": []
+    },
+    "annotazioni": "Ciao a tutti, ciao!",
+    "firma_paziente_rifiuto": false,
+    "firma_medico_decesso": false
+}

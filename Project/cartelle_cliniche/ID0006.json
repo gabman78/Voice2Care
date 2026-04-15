@@ -1,0 +1,104 @@
+{
+    "nome": "Lilla",
+    "cognome": "Puglisi",
+    "sesso": "",
+    "data_nascita": "1939-12-13",
+    "luogo_nascita": "Cesena",
+    "eta": 86,
+    "id": "ID0006",
+    "timestamp": "2025-06-15T19:05:58.043585",
+    "telefono": "+39 386 918 1540",
+    "residenza": {
+        "via": "Strada Borgia 5",
+        "comune": "Monza",
+        "provincia": "MB"
+    },
+    "data_di_ricovero": "2025-06-10",
+    "ora_di_ricovero": "09:35",
+    "luogo_intervento": "Pronto Soccorso Fittipaldi Viola",
+    "condizione_riferita": "Trauma sportivo",
+    "codice_uscita": "Russo",
+    "codice_rientro": "Verde",
+    "attivazioni": [
+        "Automedica",
+        "Forze dell'ordine"
+    ],
+    "equipaggio": [
+        "Rubbia",
+        "Tremonti",
+        "Gullotta"
+    ],
+    "sintomi_principali": [
+        "Dolore toracico",
+        "Nausea",
+        "Difficoltà respiratoria"
+    ],
+    "diagnosi_sospetta": "Trauma contusivo multiplo",
+    "diagnosi_finale": "Poli-contusioni da caduta",
+    "farmaci_indicati": [
+        "Paracetamolo 1000 mg EV",
+        "Ibuprofene 600 mg"
+    ],
+    "trattamenti_effettuati": [
+        "Monitoraggio parametri vitali",
+        "Immobilizzazione del rachide cervicale"
+    ],
+    "esami_diagnostici": [
+        "Attacca dell'encefalo",
+        "ECG"
+    ],
+    "parametri_vitali": {
+        "pressione": "125/78",
+        "frequenza_cardiaca": "94 bpm",
+        "saturazione": "100%",
+        "glicemia": "108 mg/dL",
+        "temperatura": "36.6 °C"
+    },
+    "respiro": {
+        "tipo": "Spontaneo",
+        "frequenza": "14 atti/min",
+        "rumori": "Assenti"
+    },
+    "coscienza": {
+        "stato": "Vigile",
+        "orientamento": "Tempo, spazio, persona"
+    },
+    "cute": {
+        "colore": "Normale",
+        "temperatura": "Regolare",
+        "sudorazione": "Assente"
+    },
+    "glasgow_coma_scale": {
+        "iniziale": {
+            "oculare": 4,
+            "verbale": 5,
+            "motoria": 6
+        },
+        "arrivo_ps": {
+            "oculare": 4,
+            "verbale": 5,
+            "motoria": 6
+        }
+    },
+    "pupille_reagenti": {
+        "Dx": "Reattiva, normale",
+        "Sx": "Reattiva, normale"
+    },
+    "lesioni_riscontrate": [
+        "Escoriazione al gomito destro",
+        "Ecchimosi in regione lombare"
+    ],
+    "provvedimenti": {
+        "prima_valutazione": [
+            "Applicazione collare cervicale",
+            "Monitoraggio ECG"
+        ],
+        "ospedale": [
+            "Trasferimento in PS",
+            "Visita specialistica"
+        ]
+    },
+    "annotazioni": "La paziente riferisce evento alle ore 8:00, assenza di perdita di coscienza. Collaborante e autonoma nei movimenti.",
+    "firma_paziente_rifiuto": false,
+    "firma_medico_decesso": false
+}

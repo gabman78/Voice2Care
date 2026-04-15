@@ -1,0 +1,63 @@
+{
+  "nome": "Camilla",
+  "cognome": "D'andria",
+  "sesso": "F",
+  "data_nascita": "2000-09-13",
+  "luogo_nascita": "Napoli",
+  "eta": 24,
+  "telefono": "",
+
+  "residenza": {
+    "via": "",
+    "comune": "",
+    "provincia": ""
+  },
+
+  "data_di_ricovero": "",
+  "ora_di_ricovero": "",
+  "luogo_intervento": "",
+  "condizione_riferita": "intervento al cuore",
+  "codice_uscita": "",
+  "codice_rientro": 0,
+  "attivazioni": [],
+  "equipaggio": [],
+
+  "motivo_del_ricovero": [
+    "intervento al cuore dopo infarto"
+  ],
+  "metodo_di_arrivo": [],
+  "sintomi_principali": [],
+  "diagnosi_sospetta": "",
+  "diagnosi_finale": "",
+  "decorso_clinico": "",
+  "allergie_note": [],
+  "patologie_pregresse": [],
+
+  "parametri_vitali": {},
+  "coscienza": {},
+  "cute": {},
+  "respiro": {},
+  "glasgow_coma_scale": {},
+  "pupille_reagenti": {
+    "Dx": "",
+    "Sx": ""
+  },
+  "lesioni_riscontrate": [],
+
+  "farmaci_indicati": [],
+  "trattamenti_effettuati": [],
+  "esami_diagnostici": [],
+  "provvedimenti": {
+    "respiro": [],
+    "circolo": [],
+    "immobilizzazione": [],
+    "altro": [],
+    "infusioni_farmaci": []
+  },
+
+  "annotazioni": "",
+  "firma_paziente_rifiuto": false,
+  "firma_medico_decesso": false,
+  "id": "DNDCLL00P53F839E",
+  "timestamp": "2025-06-08T12:08:31.027576"
+}

@@ -1,0 +1,17 @@
+{
+    "nome": "Giulia",
+    "cognome": "Ferraro",
+    "sesso": "F",
+    "data_nascita": "1996-03-03",
+    "luogo_nascita": "Torino",
+    "eta": 28,
+    "sintomi_principali": [
+        "dolore cronico diffuso",
+        "episodi di dislocazione articolare frequenti",
+        "senso di indivisibilità o di invisibilità"
+    ],
+    "diagnosi_sospetta": "sindrome di Hellherz-Dunlals",
+    "farmaci_indicati": [],
+    "id": "FRRGLI96C43L219H",
+    "timestamp": "2025-06-05T17:17:32.518355"
+}

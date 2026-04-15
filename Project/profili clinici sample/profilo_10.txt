@@ -1,0 +1,19 @@
+Il paziente si chiama Elena Fontana, nato il 1941-03-18 a Roma.
+È residente in Via Rossi 61, Firenze. L’età approssimativa è di 78 anni.
+L’intervento è avvenuto in data 10 giugno 2025, alle ore 21:12, presso il Pronto Soccorso Paola, Marco e Paola s.r.l..
+La condizione riferita è dispnea acuta.
+Il codice di uscita è stato rosso, mentre il codice di rientro è stato bianco.
+Sono state attivate le forze dell’ordine. L’equipaggio era composto da autista Ferrari, infermiere Ferrari, medico Ferrari.
+Il paziente riferiva i seguenti sintomi principali: dolore, nausea, difficoltà respiratoria.
+La diagnosi sospetta era trauma contusivo multiplo. Dopo valutazione, la diagnosi finale è risultata essere policontusioni da caduta.
+Sono stati somministrati i seguenti farmaci: Paracetamolo 1000 mg EV.
+I trattamenti effettuati sono stati: monitoraggio ECG.
+Gli esami diagnostici eseguiti includono: TAC encefalo, ECG.
+I parametri vitali rilevati erano: pressione 132 su 81, frequenza cardiaca 102 battiti al minuto, saturazione 90 percento, glicemia 110 mg/dL, temperatura 37.1 gradi Celsius.
+Il respiro era spontaneo, 16 atti/min, assenza di rumori patologici. Il paziente era vigile, orientato tempo, spazio, persona.
+La cute appariva colore normale, temperatura regolare, sudorazione assente. Le pupille erano reattive e normali bilateralmente.
+Alla Glasgow Coma Scale: oculare 4, verbale 5, motoria 6.
+Lesioni riscontrate: ecchimosi alla fronte.
+Provvedimenti adottati: in prima valutazione applicazione collare cervicale, monitoraggio ECG; in ospedale, trasferimento in PS, visita specialistica.
+Annotazioni: nessuna perdita di coscienza, paziente collaborante e autonomo.
+Numero di telefono fornito: 3386929053.
